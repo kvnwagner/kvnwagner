@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner: colors inspired by Miles Morales (deep red / midnight blue / black), no artwork/logos used -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1B3A,50:0D0D0D,100:E23636&height=220&section=header&text=Kevin%20Stevan%20Montenegro&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Analysis%20%26%20Development&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1B3A,50:0D0D0D,100:E23636&height=220&section=header&text=Kevin%20Stevan%20Montenegro&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20and%20Software%20Analyst&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing tagline -->
 <a href="#">
