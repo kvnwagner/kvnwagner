@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- Simple header, no external rendering service (avoids broken-image risk) -->
-<h1>Kevin Stevan Montenegro</h1>
-<h3>Full-Stack Developer | Software Analysis &amp; Development</h3>
+<!-- Banner: colors inspired by Miles Morales (deep red / midnight blue / black), no artwork/logos used -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1B3A,50:0D0D0D,100:E23636&height=220&section=header&text=Kevin%20Stevan%20Montenegro&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Analysis%20%26%20Development&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing tagline -->
 <a href="#">
@@ -76,10 +75,10 @@ A full-stack system for managing textile production workflows: user/client/opera
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kvnwagner&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E23636&icon_color=E23636&text_color=ffffff&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnwagner&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E23636&text_color=ffffff" width="38%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=kvnwagner&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E23636&icon_color=E23636&text_color=ffffff&count_private=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kvnwagner&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E23636&text_color=ffffff" width="38%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kvnwagner&hide_border=true&background=0D0D0D&stroke=1B1B3A&ring=E23636&fire=E23636&currStreakLabel=E23636" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=kvnwagner&hide_border=true&background=0D0D0D&stroke=1B1B3A&ring=E23636&fire=E23636&currStreakLabel=E23636" width="70%"/>
 
 </div>
 
@@ -96,3 +95,5 @@ A full-stack system for managing textile production workflows: user/client/opera
 <div align="center">
 <sub>Friendly neighborhood full-stack developer, based in Bogotá 🇨🇴</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,50:0D0D0D,100:1B1B3A&height=100&section=footer" width="100%"/>
