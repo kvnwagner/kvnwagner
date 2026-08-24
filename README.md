@@ -57,7 +57,7 @@ I'm a Software Analysis and Development (ADSO) student at SENA, currently buildi
 
 ## Featured Project
 
-### 🧵 Texticode — Production & Textile Management System
+### <img width="16" src="https://api.iconify.design/tabler/shirt.svg?color=%231E3A5F"/> Texticode — Production & Textile Management System
 
 A full-stack system for managing textile production workflows: user/client/operator administration, workload tracking, operator efficiency metrics, and calendar/scheduling integration.
 
@@ -66,7 +66,7 @@ A full-stack system for managing textile production workflows: user/client/opera
 - **Auth:** JWT-based authentication, Google Calendar OAuth2 integration
 - **Docs:** Full API documentation across five services (Calendar, Email, Database, Workload, Efficiency)
 
-> 🔗 [github.com/CamiloTibambre/TEXTICODE](https://github.com/CamiloTibambre/TEXTICODE)
+> <img width="14" src="https://api.iconify.design/tabler/link.svg?color=%231E3A5F"/> [github.com/CamiloTibambre/TEXTICODE](https://github.com/CamiloTibambre/TEXTICODE)
 
 <br>
 
