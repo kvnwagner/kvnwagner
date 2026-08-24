@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Banner: colors inspired by Miles Morales (deep red / midnight blue / black), no artwork/logos used -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1B3A,50:0D0D0D,100:E23636&height=220&section=header&text=Kevin%20Stevan%20Montenegro&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20and%20Software%20Analyst&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Banner: navy palette matching Texticode's UI, with a small red accent (nod to Miles Morales, nothing loud) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=220&section=header&text=Kevin%20Stevan%20Montenegro&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20and%20Software%20Analyst&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing tagline -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=E23636&center=true&vCenter=true&width=600&lines=Swinging+between+frontend+and+backend;Building+Texticode+%E2%80%94+production+%2F+textile+management;Flutter+%C2%B7+Node.js+%C2%B7+Vue.js+%C2%B7+Supabase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=1E3A5F&center=true&vCenter=true&width=600&lines=Swinging+between+frontend+and+backend;Building+Texticode+%E2%80%94+production+%2F+textile+management;Flutter+%C2%B7+Node.js+%C2%B7+Vue.js+%C2%B7+Supabase" alt="Typing SVG" />
 </a>
 
 </div>
@@ -30,26 +30,25 @@ I'm a Software Analysis and Development (ADSO) student at SENA, currently buildi
 
 **Languages & Frameworks**
 
-![Dart](https://img.shields.io/badge/Dart-1B1B3A?style=for-the-badge&logo=dart&logoColor=E23636)
-![Flutter](https://img.shields.io/badge/Flutter-0D0D0D?style=for-the-badge&logo=flutter&logoColor=E23636)
-![JavaScript](https://img.shields.io/badge/JavaScript-1B1B3A?style=for-the-badge&logo=javascript&logoColor=E23636)
-![Vue.js](https://img.shields.io/badge/Vue.js-0D0D0D?style=for-the-badge&logo=vuedotjs&logoColor=E23636)
-![Node.js](https://img.shields.io/badge/Node.js-1B1B3A?style=for-the-badge&logo=node.js&logoColor=E23636)
-![Express](https://img.shields.io/badge/Express-0D0D0D?style=for-the-badge&logo=express&logoColor=E23636)
+![Dart](https://img.shields.io/badge/Dart-1E3A5F?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-1E3A5F?style=flat-square&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E3A5F?style=flat-square&logo=javascript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-1E3A5F?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1E3A5F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1E3A5F?style=flat-square&logo=express&logoColor=white)
 
 **Database & Tools**
 
-![Supabase](https://img.shields.io/badge/Supabase-1B1B3A?style=for-the-badge&logo=supabase&logoColor=E23636)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=E23636)
-![Git](https://img.shields.io/badge/Git-1B1B3A?style=for-the-badge&logo=git&logoColor=E23636)
-![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E23636)
-![Postman](https://img.shields.io/badge/Thunder_Client-1B1B3A?style=for-the-badge&logo=thunderbird&logoColor=E23636)
+![Supabase](https://img.shields.io/badge/Supabase-1E3A5F?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E3A5F?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1E3A5F?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1E3A5F?style=flat-square&logo=github&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-1E3A5F?style=flat-square&logo=thunderclient&logoColor=white)
 
 </div>
 
 <br>
 
-<!-- subtle web-like divider, no Marvel logo — just a generic dashed line motif -->
 <div align="center">
 
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
@@ -75,10 +74,10 @@ A full-stack system for managing textile production workflows: user/client/opera
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=kvnwagner&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E23636&icon_color=E23636&text_color=ffffff&count_private=true" width="48%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kvnwagner&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E23636&text_color=ffffff" width="38%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=kvnwagner&show_icons=true&hide_border=true&bg_color=0F172A&title_color=ffffff&icon_color=ffffff&text_color=cbd5e1&count_private=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kvnwagner&layout=compact&hide_border=true&bg_color=0F172A&title_color=ffffff&text_color=cbd5e1" width="38%"/>
 
-<img src="https://streak-stats.demolab.com/?user=kvnwagner&hide_border=true&background=0D0D0D&stroke=1B1B3A&ring=E23636&fire=E23636&currStreakLabel=E23636" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=kvnwagner&hide_border=true&background=0F172A&stroke=1E3A5F&ring=1E3A5F&fire=1E3A5F&currStreakLabel=ffffff" width="70%"/>
 
 </div>
 
@@ -88,7 +87,7 @@ A full-stack system for managing textile production workflows: user/client/opera
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E23636)](mailto:stevanwagner1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-stevanwagner1%40gmail.com-1E3A5F?style=flat-square)](mailto:stevanwagner1@gmail.com)
 
 </div>
 
@@ -96,4 +95,4 @@ A full-stack system for managing textile production workflows: user/client/opera
 <sub>Friendly neighborhood full-stack developer, based in Bogotá 🇨🇴</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,50:0D0D0D,100:1B1B3A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:0F172A&height=100&section=footer" width="100%"/>
