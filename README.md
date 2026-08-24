@@ -16,11 +16,11 @@
 
 I'm a Software Analysis and Development (ADSO) student at SENA, currently building **Texticode** — a full production/textile management system — across both web (Vue.js) and mobile (Flutter). I work end-to-end: UI, API integration, authentication, and database design.
 
-- 🔭 Currently working on **Texticode Mobile** (Flutter + Node.js/Express + Supabase)
-- 🌱 Exploring native mobile deployment (iOS/Xcode workflow)
-- 🛠️ Comfortable across the stack — from Figma handoff to API endpoints to database schema
-- 🎯 Detail-oriented: I care about clean commits, complete working files, and clear documentation
-- 📍 Based in Bogotá, Colombia
+- <img width="14" src="https://api.iconify.design/tabler/telescope.svg?color=%231E3A5F"/> Currently working on **Texticode Mobile** (Flutter + Node.js/Express + Supabase)
+- <img width="14" src="https://api.iconify.design/tabler/leaf.svg?color=%231E3A5F"/> Exploring native mobile deployment (iOS/Xcode workflow)
+- <img width="14" src="https://api.iconify.design/tabler/tool.svg?color=%231E3A5F"/> Comfortable across the stack — from Figma handoff to API endpoints to database schema
+- <img width="14" src="https://api.iconify.design/tabler/target.svg?color=%231E3A5F"/> Detail-oriented: I care about clean commits, complete working files, and clear documentation
+- <img width="14" src="https://api.iconify.design/tabler/map-pin.svg?color=%231E3A5F"/> Based in Bogotá, Colombia
 
 <br>
 
