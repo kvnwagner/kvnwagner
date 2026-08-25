@@ -81,6 +81,8 @@ A personal AI assistant built from scratch: a FastAPI backend with a tool-callin
 - **LLMs:** Cerebras and Groq, routed through a custom tool registry
 - **Integrations:** Spotify control, Google Tasks, text-to-speech, system info
 
+> <img width="14" src="https://api.iconify.design/tabler/link.svg?color=%231E3A5F"/> [github.com/kvnwagner/JARVIS](https://github.com/kvnwagner/JARVIS)
+
 <br>
 
 ### <img width="16" src="https://api.iconify.design/tabler/sparkles.svg?color=%231E3A5F"/> Estetic Val — Business Website
@@ -89,6 +91,8 @@ A website built for a real beauty business, handling data and media for the clie
 
 - **Data:** Firebase Firestore
 - **Media:** Cloudinary for image storage and delivery
+
+> <img width="14" src="https://api.iconify.design/tabler/link.svg?color=%231E3A5F"/> [github.com/stevanwagner99-beep/Estetic-Val](https://github.com/stevanwagner99-beep/Estetic-Val)
 
 <br>
 
