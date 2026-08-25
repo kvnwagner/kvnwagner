@@ -33,14 +33,17 @@ I'm a Software Analysis and Development (ADSO) student at SENA, currently buildi
 ![Dart](https://img.shields.io/badge/Dart-1E3A5F?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-1E3A5F?style=flat-square&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E3A5F?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E3A5F?style=flat-square&logo=python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-1E3A5F?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1E3A5F?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-1E3A5F?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E3A5F?style=flat-square&logo=fastapi&logoColor=white)
 
 **Database & Tools**
 
 ![Supabase](https://img.shields.io/badge/Supabase-1E3A5F?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E3A5F?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1E3A5F?style=flat-square&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1E3A5F?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1E3A5F?style=flat-square&logo=github&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-1E3A5F?style=flat-square&logo=thunderclient&logoColor=white)
@@ -55,7 +58,7 @@ I'm a Software Analysis and Development (ADSO) student at SENA, currently buildi
 
 </div>
 
-## Featured Project
+## Featured Projects
 
 ### <img width="16" src="https://api.iconify.design/tabler/shirt.svg?color=%231E3A5F"/> Texticode — Production & Textile Management System
 
@@ -67,6 +70,25 @@ A full-stack system for managing textile production workflows: user/client/opera
 - **Docs:** Full API documentation across five services (Calendar, Email, Database, Workload, Efficiency)
 
 > <img width="14" src="https://api.iconify.design/tabler/link.svg?color=%231E3A5F"/> [github.com/CamiloTibambre/TEXTICODE](https://github.com/CamiloTibambre/TEXTICODE)
+
+<br>
+
+### <img width="16" src="https://api.iconify.design/tabler/robot.svg?color=%231E3A5F"/> JARVIS — Personal AI Assistant
+
+A personal AI assistant built from scratch: a FastAPI backend with a tool-calling registry connected to LLMs, wired up to real integrations rather than just a chat wrapper.
+
+- **Backend:** Python + FastAPI, SQLite for persistence
+- **LLMs:** Cerebras and Groq, routed through a custom tool registry
+- **Integrations:** Spotify control, Google Tasks, text-to-speech, system info
+
+<br>
+
+### <img width="16" src="https://api.iconify.design/tabler/sparkles.svg?color=%231E3A5F"/> Estetic Val — Business Website
+
+A website built for a real beauty business, handling data and media for the client end-to-end.
+
+- **Data:** Firebase Firestore
+- **Media:** Cloudinary for image storage and delivery
 
 <br>
 
@@ -88,6 +110,7 @@ A full-stack system for managing textile production workflows: user/client/opera
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-stevanwagner1%40gmail.com-1E3A5F?style=flat-square)](mailto:stevanwagner1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kvnwagner.github.io-1E3A5F?style=flat-square)](https://kvnwagner.github.io)
 
 </div>
 
